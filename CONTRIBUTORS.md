@@ -1,0 +1,8 @@
+* [carlio](https://github.com/carlio)
+* [mbarrien](https://github.com/mbarrien)
+* [frost-nzcr4](https://github.com/frost-nzcr4)
+* [ustun](https://github.com/ustun)
+* [jproffitt](https://github.com/jproffitt)
+* [lhupfeldt](https://github.com/lhupfeldt)
+* [smirolo](https://github.com/smirolo)
+* [mbertolacci](https://github.com/mbertolacci)
